@@ -203,7 +203,7 @@
       <a href="#" class="cta-button">JOIN US</a>
     </div>
     <div class="image-box">
-      <img src="img/Charity water img1.jpg" alt="People at a water source">
+      <img src="img/charity-water-img1.jpg" alt="People at a water source">
     </div>
   </section>
 
