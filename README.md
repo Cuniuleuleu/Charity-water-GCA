@@ -1,4 +1,4 @@
-index.html ✅
+index.html
 img/
 README.md
 
