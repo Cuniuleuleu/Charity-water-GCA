@@ -1,6 +1,3 @@
-index.html
-img/
-README.md
 
 <!DOCTYPE html>
 <html lang="en">
